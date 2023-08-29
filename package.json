@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "@fastify/websocket": "^8.2.0",
+    "dotenv": "^16.3.1",
     "fastify": "^4.21.0",
     "protobufjs": "~7.2.5",
-    "vigemclient": "^1.5.2"
+    "vigemclient": "^1.5.2",
+    "wrtc": "^0.4.7"
   },
   "devDependencies": {
     "nexe": "4.0.0-rc.2"
